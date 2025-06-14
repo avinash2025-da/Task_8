@@ -1,0 +1,7 @@
+
+Sales Dashboard Insights – Task 08
+
+1. The West region recorded the highest sales, followed closely by the East region.
+2. Technology emerged as the best-performing category, contributing over 36% of total sales.
+3. Sales showed a significant spike during October and November, likely due to seasonal promotions or festive periods.
+4. The South region consistently had the lowest sales figures throughout the year, indicating potential for growth opportunities.
